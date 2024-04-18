@@ -1,0 +1,7 @@
+/dist
+src/__tests__
+/node_modules
+/lib
+.DS_Store
+/coverage
+.husky
